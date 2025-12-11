@@ -1,6 +1,11 @@
 # Forecasting Sea Surface Temperature and Marine Weather Variables with ICOADS Time Series Data
 
-> Umaeshwer Shankar, Arin Paul, Alex Zhang, Ketan Totlani
+| Group Member      | Contribution                                      |
+|-------------------|---------------------------------------------------|
+| Umaeshwer Shankar | Data Aggregation, Statistical Analysis            |
+| Arin Paul         | Modelling Approaches (LSTM, Prophet)              |
+| Alex Zhang        | Cleaning, EDA, Feature Engineering, Documentation |
+| Ketan Totlani     | [D](https://github.com/alexyzha/ICOADS-Time-Series-Analysis/pull/13)ocumentation                                     |
 
 -----
 
